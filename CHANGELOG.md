@@ -7,6 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased]
 ### Fixed
 - Request by adding User-Agent since PostNL seems to require that now
+- Package that is enroute with unknown date
 
 ## 1.2.1 - 2019-08-18
 ### Fixed
